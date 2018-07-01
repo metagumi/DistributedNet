@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathLibrary", "MathLibrary\MathLibrary.csproj", "{476112E3-173E-41FA-8B59-01622304C8FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathClient", "MathClient\MathClient.csproj", "{9F9348E6-3BF7-4081-BCCF-5A50190FDD8C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{476112E3-173E-41FA-8B59-01622304C8FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{476112E3-173E-41FA-8B59-01622304C8FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{476112E3-173E-41FA-8B59-01622304C8FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{476112E3-173E-41FA-8B59-01622304C8FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F9348E6-3BF7-4081-BCCF-5A50190FDD8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F9348E6-3BF7-4081-BCCF-5A50190FDD8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F9348E6-3BF7-4081-BCCF-5A50190FDD8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F9348E6-3BF7-4081-BCCF-5A50190FDD8C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
