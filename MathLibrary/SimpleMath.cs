@@ -1,6 +1,7 @@
 ﻿using System;
 namespace MathLibrary
 {
+    //Initial commit
     public class SimpleMath
     {
         public SimpleMath()
